@@ -1,0 +1,17 @@
+{
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "plsql",
+        "html"
+    ],
+    "spellright.parserByClass": {
+        "plsql": {
+            "parser": "plain"
+        }
+    }
+}
